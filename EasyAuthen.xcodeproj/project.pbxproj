@@ -12,6 +12,9 @@
 		C4A29C1120C26B0500E7995C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4A29C0F20C26B0500E7995C /* Main.storyboard */; };
 		C4A29C1320C26B0600E7995C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4A29C1220C26B0600E7995C /* Assets.xcassets */; };
 		C4A29C1620C26B0600E7995C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4A29C1420C26B0600E7995C /* LaunchScreen.storyboard */; };
+		C4A29C1E20C26D3800E7995C /* imgix-391813-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C4A29C1D20C26D3800E7995C /* imgix-391813-unsplash.jpg */; };
+		C4A29C2020C2708500E7995C /* baseline_account_box_white_48pt_1x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4A29C1F20C2708500E7995C /* baseline_account_box_white_48pt_1x.png */; };
+		C4A29C2220C2709B00E7995C /* baseline_lock_white_48pt_1x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4A29C2120C2709B00E7995C /* baseline_lock_white_48pt_1x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		C4A29C1220C26B0600E7995C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4A29C1520C26B0600E7995C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C4A29C1720C26B0600E7995C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4A29C1D20C26D3800E7995C /* imgix-391813-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "imgix-391813-unsplash.jpg"; sourceTree = "<group>"; };
+		C4A29C1F20C2708500E7995C /* baseline_account_box_white_48pt_1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baseline_account_box_white_48pt_1x.png; sourceTree = "<group>"; };
+		C4A29C2120C2709B00E7995C /* baseline_lock_white_48pt_1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baseline_lock_white_48pt_1x.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 				C4A29C0D20C26B0500E7995C /* ViewController.swift */,
 				C4A29C0F20C26B0500E7995C /* Main.storyboard */,
 				C4A29C1220C26B0600E7995C /* Assets.xcassets */,
+				C4A29C1F20C2708500E7995C /* baseline_account_box_white_48pt_1x.png */,
+				C4A29C1D20C26D3800E7995C /* imgix-391813-unsplash.jpg */,
+				C4A29C2120C2709B00E7995C /* baseline_lock_white_48pt_1x.png */,
 				C4A29C1420C26B0600E7995C /* LaunchScreen.storyboard */,
 				C4A29C1720C26B0600E7995C /* Info.plist */,
 			);
@@ -124,7 +133,10 @@
 			files = (
 				C4A29C1620C26B0600E7995C /* LaunchScreen.storyboard in Resources */,
 				C4A29C1320C26B0600E7995C /* Assets.xcassets in Resources */,
+				C4A29C2220C2709B00E7995C /* baseline_lock_white_48pt_1x.png in Resources */,
 				C4A29C1120C26B0500E7995C /* Main.storyboard in Resources */,
+				C4A29C1E20C26D3800E7995C /* imgix-391813-unsplash.jpg in Resources */,
+				C4A29C2020C2708500E7995C /* baseline_account_box_white_48pt_1x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
